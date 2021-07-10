@@ -117,5 +117,7 @@ console.log(isChecked || !isClose); /* true */
 /*5a)git add Css2  Добавить конкретный файл файлы  */
 /*6) git commit -a -m"Добавил 5 команд гита" */
 /*   git checkout сбросить все изминения до предыдущего комита */
-/* */
+/*7) git log    просмотр кoмитов */
+/*8) git remote add origin https://github.com/iarilo/BiOnMax-lesson-2021.git Добавляем строку из созданного репозитория */
+/*9) git push -u origin master    Команда пуша */
 
