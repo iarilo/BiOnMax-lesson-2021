@@ -129,4 +129,6 @@ console.log(isChecked || !isClose); /* true */
 /* touch app/{css/main.css,js/main.js,index.html} — Создать сразу несколько файлов, никаких лишних пробелов быть не должно */
 /*mv app1/*.* app2 — Переместить все файлы из папки app1 в папку app2  */
 /* rm test — Удалить пустую папку test*/
+/* добавляю из кракена*/
+
 
