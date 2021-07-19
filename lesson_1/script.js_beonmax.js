@@ -130,6 +130,8 @@ console.log(isChecked || !isClose); /* true */
 /*mv app1/*.* app2 — Переместить все файлы из папки app1 в папку app2  */
 /* rm test — Удалить пустую папку test*/
 
+                 /*   ПОДГОТОВКА К ПРОЕКТУ   */
+
 
 
 
