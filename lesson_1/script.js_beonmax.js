@@ -132,6 +132,7 @@ console.log(isChecked || !isClose); /* true */
 
                  /*   ПОДГОТОВКА К ПРОЕКТУ   */
 
+            /*  Условия и Циклы    */
 
 
 
