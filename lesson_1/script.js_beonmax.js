@@ -113,11 +113,24 @@ console.log(isChecked || !isClose); /* true */
 /* 2)git config --global user.name "Vitaly" */
 /*3)git config --global user.email brynzav2@gmail.com */
 /*4) git status */
-/*5) git add -A  Добавить все файлы */
+/*5) git add .  Добавить все файлы */
 /*5a)git add Css2  Добавить конкретный файл файлы  */
-/*6) git commit -a -m"Добавил 5 команд гита" */
-/*   git checkout сбросить все изминения до предыдущего комита */
+/*6) git commit  -m"Добавил 5 команд гита" */
+/*   git clear сбросить все изминения до предыдущего комита */
 /*7) git log    просмотр кoмитов */
 /*8) git remote add origin https://github.com/iarilo/BiOnMax-lesson-2021.git Добавляем строку из созданного репозитория */
 /*9) git push -u origin master    Команда пуша */
+
+/* cd .. — Выйти из папки */
+/* mkdir — Создать папку */
+/* cd !$ — Перейти в только что созданную папку */
+/* touch — позволяет создавать файлы */
+/* touch index.html — Создать файл index.html */
+/* touch app/{css/main.css,js/main.js,index.html} — Создать сразу несколько файлов, никаких лишних пробелов быть не должно */
+/*mv app1/*.* app2 — Переместить все файлы из папки app1 в папку app2  */
+/* rm test — Удалить пустую папку test*/
+
+            
+
+
 
