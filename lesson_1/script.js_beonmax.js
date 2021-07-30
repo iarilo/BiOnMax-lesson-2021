@@ -105,7 +105,7 @@ console.log(mama);
 
   /* Callback - функции */
 
-  function papa(Mama,Lena) {
+/*   function papa(Mama,Lena) {
  console.log('Буся Галя моя  ' + Mama);
 
    Lena();
@@ -122,7 +122,7 @@ console.log(mama);
 function tututu () {
   console.log('Едит паровозик');
 }
-vit("песню",tututu);
+vit("песню",tututu); */
 
   /* СТРЕЛОЧНАЯ (не имеет контекта вызова) */
 
